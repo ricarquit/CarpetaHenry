@@ -1,2 +1,2 @@
 # CarpetaHenry
-Ejercicios del modulo 2 del Prep Course
+Ejercicios que forman parte del módulo 2 del Prep Course
